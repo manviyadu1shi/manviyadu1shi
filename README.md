@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Manvi Yaduvanshi</h1>
 <h3 align="center">A passionate learner of technology living in Delhi,India.</h3>
 
-- 🔭 I’m currently working on **my own portfolio website**
+- 🔭 I’m currently working on **upskilling myself**
 
-- 🌱 I’m currently learning **ReactJS, DevOps, Golang**
+- 🌱 Particularly learning **ReactJS, DevOps, Golang** (yes all of them together- well maybe)
 
-- 💬 Ask me about **frontend, UI/UX, JAVA**
+- 💬 You can ask me about **frontend, UI/UX, JAVA**
 
-- 📫 How to reach me **manviyaduvanshi23@gmail.com**
+- 📫 I check my mails daily at **manviyaduvanshi23@gmail.com**
 
 - ⚡ Fun fact **I'm not boring**
 

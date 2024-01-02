@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Manvi Yaduvanshi</h1>
 <h3 align="center">A passionate learner of technology living in Delhi,India.</h3>
 
-- 🔭 I’m currently working on **upskilling myself**
+- 🔭 I’m currently working on upskilling myself
 
 - 🌱 Particularly learning **ReactJS, DevOps, Golang** (yes all of them together- well maybe)
 
